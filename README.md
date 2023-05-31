@@ -110,7 +110,7 @@ This code uses resources from the following projects:
 ## Citations
 If you find this code useful for your research, consider cite our paper:
 ```
-In evaluation process
+Accepted on IJSC 2023
 ```
 ## Contact
 Leonardo Vilela Cardoso with this e-mail: leonardocardoso@pucminas.br
