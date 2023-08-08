@@ -110,7 +110,13 @@ This code uses resources from the following projects:
 ## Citations
 If you find this code useful for your research, consider cite our paper:
 ```
-Accepted on IJSC 2023
+@article{cardoso2023hierarchical,
+  title={Hierarchical time-aware summarization with an adaptive transformer for video captioning},
+  author={Cardoso, Leonardo Vilela and Guimaraes, Silvio Jamil Ferzoli and do Patrocinio Junior, Zenilton Kleber Goncalves},
+  journal={International Journal of Semantic Computing},
+  year={2023},
+  publisher={World Scientific}
+}
 ```
 ## Contact
 Leonardo Vilela Cardoso with this e-mail: leonardocardoso@pucminas.br
